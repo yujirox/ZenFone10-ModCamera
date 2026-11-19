@@ -1,7 +1,7 @@
 # ZenFone10-ModCamera
 Magisk module for silencing the ZenFone 10’s camera.  
   
-This is a version of the ZenFone 10’s standard camera (com.asus.camera) package with sound effects muted.  
+This is the ZenFone 10’s standard camera (com.asus.camera) package with sound effects muted.  
 The sound effects in the following audio files, with the exception of the self-timer, have been muted:  
 1p.ogg: Self-timer  
 bE.ogg: Shutter  
