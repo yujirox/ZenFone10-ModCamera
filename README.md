@@ -13,3 +13,6 @@ R2.ogg: Focus
 ZK.ogg: Fast self-timer (low volume)  
   
 Compatibility has been confirmed on OS version 35.0604.0404.165.
+
+## Important Notes
+The Camera settings will be reset during installation.
