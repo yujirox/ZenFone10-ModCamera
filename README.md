@@ -3,9 +3,10 @@ Magisk module for silencing the ZenFone 10’s camera.
   
 This is the ZenFone 10’s standard camera (com.asus.camera) package with shutter sounds muted.  
 The sound effects in the following audio files, with the exception of the self-timer, have been muted:  
+  
 1p.ogg: Self-timer  
 bE.ogg: Shutter  
-bG.ogg: Video stop
+bG.ogg: Video stop  
 cN.ogg: Fast self-timer  
 iT.ogg: Video start  
 q0.ogg: Self-timer (low volume)  
